@@ -181,7 +181,7 @@
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>https://managerhacks.io/product/project-center</loc>
+        <loc>https://www.managerhacks.io/product/project-management-suite-or-made-for-notion</loc>
         <lastmod>2024-07-17T18:26:42.475368+00:00</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
@@ -393,5 +393,75 @@
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
     </url>
+
+        <!-- Infographics -->
+     <url>
+        <loc>https://www.managerhacks.io/infographic/cognitive-biases-for-leaders</loc>
+        <lastmod>2024-09-27T14:09:01.788234+00:00</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+     <url>
+    <loc>https://www.managerhacks.io/infographic/22-hacks-to-rule-your-meetings</loc>
+    <lastmod>2024-10-13T14:09:01.788234+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    </url>
+
+<url>
+    <loc>https://www.managerhacks.io/infographic/build-a-personal-growth-plan</loc>
+    <lastmod>2024-10-13T14:09:01.788234+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+</url>
+
+<url>
+    <loc>https://www.managerhacks.io/infographic/leaders-overcome-the-imposter-syndrome</loc>
+    <lastmod>2024-10-13T14:09:01.788234+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+</url>
+
+<url>
+    <loc>https://www.managerhacks.io/infographic/critical-offboarding-checklist</loc>
+    <lastmod>2024-10-13T14:09:01.788234+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+</url>
+
+<url>
+    <loc>https://www.managerhacks.io/infographic/project-communication-the-dos-and-donts</loc>
+    <lastmod>2024-10-13T14:09:01.788234+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+</url>
+
+<url>
+    <loc>https://www.managerhacks.io/infographic/what-kind-of-project-are-you-running</loc>
+    <lastmod>2024-10-13T14:09:01.788234+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+</url>
+
+<url>
+    <loc>https://www.managerhacks.io/infographic/the-7-sins-of-busy-managers</loc>
+    <lastmod>2024-10-13T14:09:01.788234+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+</url>
+
+<url>
+    <loc>https://www.managerhacks.io/infographic/the-anatomy-of-high-performing-teams</loc>
+    <lastmod>2024-10-13T14:09:01.788234+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+</url>
+
+<url>
+    <loc>https://www.managerhacks.io/infographic/the-first-90-days-as-a-manager</loc>
+    <lastmod>2024-10-13T14:09:01.788234+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+</url>
 
 </urlset>
